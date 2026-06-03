@@ -25,5 +25,13 @@
     "platform": "PC",
     "date": "2023-09",
     "review": "I went looking for a crossroads and found a menu.\nThere was nothing wrong with it, exactly — and that was the problem. A thousand worlds, all loading screens and no weight, none of them willing to meet me in the dark.\nI set down the torch and walked away. Some things are not conquered. They are simply left."
+  },
+  {
+    "title": "The Elder Scrolls V: Skyrim",
+    "status": "conquered",
+    "rating": 5,
+    "verdict": "Everyone should play it.",
+    "platform": "PC",
+    "review": "The best fantasy medieval game there is.\nThe mods are perfect to add to this game — they don't patch over a broken thing, they extend a kingdom that was already worth living in. Years on, the torches here still burn."
   }
 ]

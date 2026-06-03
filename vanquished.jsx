@@ -230,9 +230,6 @@ function Vanquished() {
           </React.Fragment>
         )}
 
-        <footer className="vq-foot">
-          <a href="https://obsidiancloud.org">← obsidiancloud.org</a>
-        </footer>
       </div>
 
       <div className={'vq-scrim' + (active ? ' vq-open' : '')} onClick={() => setActive(null)} />

@@ -1,0 +1,12 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Claude Code local config (keep this repo self-contained & clean)
+.claude/
+
+# Local server / logs
+*.log

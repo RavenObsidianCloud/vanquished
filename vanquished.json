@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Elden Ring",
+    "status": "conquered",
+    "rating": 5,
+    "verdict": "The crossroads themselves, made flesh. I tended every torch.",
+    "platform": "PC",
+    "date": "2024-03",
+    "review": "Some games are met. This one was inhabited.\nThe Lands Between asked for everything — patience, ruin, and the willingness to die at the same wall a hundred times. I gave it all of that.\nWhat I carried out was not just a finished credits screen but a kind of reverence. The dark here is beautiful, and it does not lie to you. Conquered, fully, and gladly."
+  },
+  {
+    "title": "Hollow Knight",
+    "status": "conquered",
+    "rating": 5,
+    "verdict": "Descended into the dark and came back lit.",
+    "platform": "PC",
+    "date": "2023-11",
+    "review": "A hollow kingdom, drawn in ink and silence.\nEvery corridor felt older than the last. The further down I went, the more it became clear the game was never going to hold my hand — only hand me a nail and a guttering lantern.\nI conquered it. The silence stays with me."
+  },
+  {
+    "title": "Starfield",
+    "status": "abandoned",
+    "rating": 2,
+    "verdict": "A thousand worlds, none of them haunted. Left to the dark.",
+    "platform": "PC",
+    "date": "2023-09",
+    "review": "I went looking for a crossroads and found a menu.\nThere was nothing wrong with it, exactly — and that was the problem. A thousand worlds, all loading screens and no weight, none of them willing to meet me in the dark.\nI set down the torch and walked away. Some things are not conquered. They are simply left."
+  }
+]
